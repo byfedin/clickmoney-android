@@ -53,4 +53,4 @@ Presentation, domain, and data responsibilities are separated with shared result
 
 This repository is a public project showcase with screenshots and an engineering case study. The commercial application’s source code is proprietary and is not included here.
 
-Built by **[Evgenii Fedin](https://byfedin.dev)** · [GitHub](https://github.com/DivisionCom) · [Contact](mailto:evgenii@byfedin.dev)
+Built by **[Evgenii Fedin](https://byfedin.dev)** · [GitHub](https://github.com/byfedin) · [Contact](mailto:evgenii@byfedin.dev)
